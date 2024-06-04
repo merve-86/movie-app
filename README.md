@@ -1,4 +1,5 @@
-![Uploading movie-app.gif…]()
+![movie-app](https://github.com/merve-86/movie-app/assets/154313391/a67517e4-a819-42e5-8ce7-24ebf1a12472)
+
 
 
 https://movie-app-merve.netlify.app
