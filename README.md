@@ -1,3 +1,6 @@
+![Uploading movie-app.gif…]()
+
+
 https://movie-app-merve.netlify.app
 
 # Getting Started with Create React App
